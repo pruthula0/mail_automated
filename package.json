@@ -1,0 +1,14 @@
+{
+  "name": "mail_automated",
+  "version": "1.0.0",
+  "description": "responsive mail bot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "tested manually"
+  },
+  "keywords": [
+    "vacationresponderer"
+  ],
+  "author": "pruthula",
+  "license": "ISC"
+}
